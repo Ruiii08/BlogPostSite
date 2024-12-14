@@ -1,0 +1,26 @@
+.width1{
+    max-width: 90vw;
+    margin: auto;
+}
+.width2{
+    max-width: 80vw;
+    margin: auto;
+}
+.btn{
+    height: 30px;
+    margin: 1px 5px;
+    padding: 2px;
+    background-color: #708090;
+    color: snow;
+    border: none;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: gainsboro;
+    color: #000;
+    cursor: pointer;
+}
+input:focus, textarea:focus{
+    outline: none;
+}
+  
